@@ -1,0 +1,239 @@
+500 hormigas
+200 iteraciones
+60 segundos
+0.5 Decay
+alpha = 3
+slack = 2
+eneable_time = 2 
+
+0 14 13 9 18 4 8 5 6 7 16 19 11 17 1 3 12 10 2 15 550.5027000000001 rc_201.1.txt
+0 21 13 23 10 9 12 6 5 8 16 19 25 17 18 1 24 2 7 11 3 4 14 20 22 15 742.8997999999999 rc_201.2.txt
+No se encontró camino correcto rc_201.3.txt
+0 20 2 14 17 1 3 21 6 5 4 13 12 25 23 9 11 16 10 18 24 15 7 8 22 19 848.8761 rc_201.4.txt
+No se encontró camino correcto rc_202.1.txt
+0 9 4 3 1 10 5 2 7 6 8 13 11 12 397.82460000000003 rc_202.2.txt
+0 21 14 8 11 9 5 20 19 22 24 10 12 13 25 28 2 1 16 15 23 17 6 26 3 4 18 27 7 906.1677999999999 rc_202.3.txt
+No se encontró camino correcto rc_202.4.txt
+0 17 10 15 8 12 18 11 16 9 14 7 4 5 1 2 6 3 13 596.7956 rc_203.1.txt
+No se encontró camino correcto rc_203.2.txt
+No se encontró camino correcto rc_203.3.txt
+0 9 1 2 3 10 4 12 7 6 5 13 11 8 14 396.0734 rc_203.4.txt
+No se encontró camino correcto rc_204.1.txt
+No se encontró camino correcto rc_204.2.txt
+0 22 21 16 15 5 7 8 12 10 3 1 2 6 4 9 14 17 13 18 19 11 20 23 553.026 rc_204.3.txt
+0 12 6 3 1 11 10 9 7 8 2 4 5 13 398.85210000000006 rc_205.1.txt
+No se encontró camino correcto rc_205.2.txt
+No se encontró camino correcto rc_205.3.txt
+0 16 8 9 5 4 6 21 15 7 17 27 22 23 2 13 20 24 25 3 18 14 1 12 10 11 26 19 817.9342 rc_205.4.txt
+0 2 1 3 117.8479 rc_206.1.txt
+No se encontró camino correcto rc_206.2.txt
+0 22 18 8 2 6 3 4 5 17 20 21 23 16 13 12 10 11 24 9 14 1 7 15 19 650.6731000000001 rc_206.3.txt
+No se encontró camino correcto rc_206.4.txt
+No se encontró camino correcto rc_207.1.txt
+No se encontró camino correcto rc_207.2.txt
+No se encontró camino correcto rc_207.3.txt
+0 1 4 2 3 5 119.6388 rc_207.4.txt
+No se encontró camino correcto rc_208.1.txt
+No se encontró camino correcto rc_208.2.txt
+No se encontró camino correcto rc_208.3.txt
+
+
+500 hormigas
+200 iteraciones
+60 segundos
+0.7 Decay
+alpha = 3
+slack = 2
+eneable_time = 2 
+
+0 14 13 9 18 4 6 5 7 8 16 11 19 17 1 12 3 10 2 15 550.1493999999999 rc_201.1.txt
+0 21 13 23 10 9 12 6 5 8 16 19 25 17 18 1 2 24 11 7 3 4 14 20 22 15 749.2486999999999 rc_201.2.txt
+No se encontró camino correcto rc_201.3.txt
+0 20 2 14 17 1 3 21 6 5 4 13 12 25 23 11 16 9 10 18 24 15 7 8 22 19 844.0439999999999 rc_201.4.txt
+No se encontró camino correcto rc_202.1.txt
+0 9 3 4 1 5 10 2 7 6 8 13 12 11 400.1341 rc_202.2.txt
+No se encontró camino correcto rc_202.3.txt
+No se encontró camino correcto rc_202.4.txt
+0 10 17 16 13 3 8 12 11 9 7 4 14 6 5 2 1 18 15 567.6704 rc_203.1.txt
+No se encontró camino correcto rc_203.2.txt
+No se encontró camino correcto rc_203.3.txt
+0 9 1 2 3 10 4 12 7 6 5 11 8 14 13 395.37569999999994 rc_203.4.txt
+No se encontró camino correcto rc_204.1.txt
+No se encontró camino correcto rc_204.2.txt
+0 22 23 11 13 19 8 5 7 6 12 10 3 1 2 4 9 14 17 20 18 16 15 21 552.5243 rc_204.3.txt
+0 12 6 3 1 11 9 13 10 7 8 2 4 5 403.04159999999996 rc_205.1.txt
+No se encontró camino correcto rc_205.2.txt
+No se encontró camino correcto rc_205.3.txt
+0 8 16 9 4 5 6 15 21 7 17 27 22 23 2 13 20 24 3 25 18 14 1 12 10 11 26 19 842.1119 rc_205.4.txt
+0 2 1 3 117.8479 rc_206.1.txt
+No se encontró camino correcto rc_206.2.txt
+0 22 18 17 8 3 2 4 6 5 20 21 10 13 11 12 24 16 23 14 1 9 7 15 19 652.7705000000002 rc_206.3.txt
+No se encontró camino correcto rc_206.4.txt
+0 33 32 24 25 26 11 10 16 13 12 14 27 21 29 30 4 1 2 19 5 8 6 9 15 17 20 3 7 18 28 23 31 22 985.3885000000001 rc_207.1.txt
+No se encontró camino correcto rc_207.2.txt
+No se encontró camino correcto rc_207.3.txt
+0 1 4 2 3 5 119.6388 rc_207.4.txt
+No se encontró camino correcto rc_208.1.txt
+No se encontró camino correcto rc_208.2.txt
+No se encontró camino correcto rc_208.3.txt
+
+
+500 hormigas
+200 iteraciones
+60 segundos
+0.5 Decay
+alpha = 2
+slack = 3
+eneable_time = 2 
+
+0 14 13 9 18 5 4 8 6 7 16 11 19 17 1 3 10 12 2 15 552.2119 rc_201.1.txt
+0 21 13 23 10 9 12 6 5 8 16 19 25 17 18 1 2 24 11 7 3 4 14 20 22 15 749.2486999999999 rc_201.2.txt
+No se encontró camino correcto rc_201.3.txt
+0 20 2 14 17 1 3 21 6 5 4 13 12 25 23 9 11 16 10 18 7 24 15 8 22 19 854.1831 rc_201.4.txt
+No se encontró camino correcto rc_202.1.txt
+0 9 4 3 10 5 1 7 6 8 13 11 12 2 465.16959999999995 rc_202.2.txt
+No se encontró camino correcto rc_202.3.txt
+No se encontró camino correcto rc_202.4.txt
+0 10 17 3 16 13 11 9 8 14 7 5 4 6 1 2 18 12 15 577.338 rc_203.1.txt
+No se encontró camino correcto rc_203.2.txt
+No se encontró camino correcto rc_203.3.txt
+0 9 1 2 3 10 4 12 7 6 5 11 8 14 13 395.37569999999994 rc_203.4.txt
+No se encontró camino correcto rc_204.1.txt
+0 21 25 18 12 13 8 9 7 11 6 4 10 32 27 2 15 5 3 14 26 30 19 23 16 1 31 28 29 24 20 17 22 859.0970000000002 rc_204.2.txt
+0 22 21 15 16 4 6 9 12 10 7 5 3 8 2 1 14 17 20 18 23 11 19 13 564.5878 rc_204.3.txt
+0 12 1 3 6 11 10 9 7 8 2 4 5 13 402.379 rc_205.1.txt
+No se encontró camino correcto rc_205.2.txt
+No se encontró camino correcto rc_205.3.txt
+No se encontró camino correcto rc_205.4.txt
+0 2 1 3 117.8479 rc_206.1.txt
+No se encontró camino correcto rc_206.2.txt
+0 22 18 8 6 4 3 2 5 17 20 21 16 13 12 11 10 24 23 14 1 9 7 15 19 651.7256000000001 rc_206.3.txt
+No se encontró camino correcto rc_206.4.txt
+No se encontró camino correcto rc_207.1.txt
+No se encontró camino correcto rc_207.2.txt
+No se encontró camino correcto rc_207.3.txt
+0 1 4 2 3 5 119.6388 rc_207.4.txt
+No se encontró camino correcto rc_208.1.txt
+No se encontró camino correcto rc_208.2.txt
+No se encontró camino correcto rc_208.3.txt
+
+
+500 hormigas
+200 iteraciones
+60 segundos
+0.7 Decay
+alpha = 2
+slack = 3
+eneable_time = 2 
+
+0 14 13 9 18 5 4 8 6 7 16 11 19 17 1 3 12 10 2 15 550.1279000000001 rc_201.1.txt
+0 21 13 23 10 9 12 6 5 8 16 19 25 17 18 1 2 24 11 7 3 4 14 20 22 15 749.2486999999999 rc_201.2.txt
+No se encontró camino correcto rc_201.3.txt
+0 2 20 14 17 1 3 21 6 5 4 12 13 25 23 11 16 9 10 18 7 24 15 8 22 19 865.6152999999999 rc_201.4.txt
+No se encontró camino correcto rc_202.1.txt
+0 9 4 3 2 1 10 7 5 6 8 13 12 11 409.9348 rc_202.2.txt
+No se encontró camino correcto rc_202.3.txt
+No se encontró camino correcto rc_202.4.txt
+0 17 10 13 8 3 12 11 9 7 4 14 6 5 2 1 18 15 16 584.2398 rc_203.1.txt
+No se encontró camino correcto rc_203.2.txt
+No se encontró camino correcto rc_203.3.txt
+0 9 1 2 3 10 4 12 7 6 5 11 8 14 13 395.37569999999994 rc_203.4.txt
+No se encontró camino correcto rc_204.1.txt
+0 29 11 9 7 12 8 13 6 3 4 10 23 30 19 32 27 2 5 15 31 24 21 22 25 18 14 26 16 1 28 20 17 814.1309399999998 rc_204.2.txt
+0 23 1 3 7 5 4 2 12 10 9 6 8 14 17 11 20 18 19 13 21 15 16 22 579.6745000000001 rc_204.3.txt
+0 12 6 3 1 11 8 9 7 10 2 4 5 13 403.20410000000004 rc_205.1.txt
+No se encontró camino correcto rc_205.2.txt
+No se encontró camino correcto rc_205.3.txt
+No se encontró camino correcto rc_205.4.txt
+0 2 1 3 117.8479 rc_206.1.txt
+No se encontró camino correcto rc_206.2.txt
+0 22 18 8 4 6 3 2 5 20 17 21 10 13 11 23 16 12 24 14 9 1 7 15 19 651.5908000000001 rc_206.3.txt
+No se encontró camino correcto rc_206.4.txt
+No se encontró camino correcto rc_207.1.txt
+No se encontró camino correcto rc_207.2.txt
+No se encontró camino correcto rc_207.3.txt
+0 1 4 2 3 5 119.6388 rc_207.4.txt
+No se encontró camino correcto rc_208.1.txt
+0 19 24 18 17 20 1 3 2 4 25 27 23 16 12 14 8 9 6 10 11 13 7 5 28 15 21 26 22 659.3818999999999 rc_208.2.txt
+No se encontró camino correcto rc_208.3.txt
+
+
+
+500 hormigas
+200 iteraciones
+60 segundos
+0.5 Decay
+alpha = 2
+slack = 2
+eneable_time = 3
+
+0 14 13 9 18 8 6 4 5 7 16 17 19 11 1 3 10 12 2 15 552.6069 rc_201.1.txt
+No se encontró camino correcto rc_201.2.txt
+No se encontró camino correcto rc_201.3.txt
+0 20 2 14 17 1 3 21 6 5 4 13 12 25 23 11 16 9 10 18 24 15 7 8 22 19 844.0439999999999 rc_201.4.txt
+No se encontró camino correcto rc_202.1.txt
+0 9 2 1 4 3 10 5 6 8 7 13 11 12 395.54600000000005 rc_202.2.txt
+No se encontró camino correcto rc_202.3.txt
+No se encontró camino correcto rc_202.4.txt
+0 10 17 16 13 3 8 12 11 9 7 4 14 6 5 2 1 18 15 567.6704 rc_203.1.txt
+No se encontró camino correcto rc_203.2.txt
+No se encontró camino correcto rc_203.3.txt
+0 9 1 2 3 10 4 12 7 6 5 11 8 14 13 395.37569999999994 rc_203.4.txt
+No se encontró camino correcto rc_204.1.txt
+No se encontró camino correcto rc_204.2.txt
+0 22 21 15 16 2 6 12 10 9 7 8 5 1 3 4 14 17 19 23 18 13 20 11 566.0546999999999 rc_204.3.txt
+0 12 6 3 1 11 9 13 10 7 8 2 4 5 403.04159999999996 rc_205.1.txt
+No se encontró camino correcto rc_205.2.txt
+No se encontró camino correcto rc_205.3.txt
+0 8 16 9 4 5 6 15 21 7 17 27 22 23 2 13 20 24 3 12 18 14 1 10 11 26 25 19 881.7800000000001 rc_205.4.txt
+0 2 1 3 117.8479 rc_206.1.txt
+No se encontró camino correcto rc_206.2.txt
+0 22 18 17 8 2 3 4 6 5 20 21 13 12 10 11 16 23 24 9 14 1 7 15 19 651.1608000000001 rc_206.3.txt
+No se encontró camino correcto rc_206.4.txt
+No se encontró camino correcto rc_207.1.txt
+No se encontró camino correcto rc_207.2.txt
+No se encontró camino correcto rc_207.3.txt
+0 1 4 2 3 5 119.6388 rc_207.4.txt
+No se encontró camino correcto rc_208.1.txt
+No se encontró camino correcto rc_208.2.txt
+No se encontró camino correcto rc_208.3.txt
+
+
+500 hormigas
+200 iteraciones
+60 segundos
+0.7 Decay
+alpha = 2
+slack = 2
+eneable_time = 3
+
+0 14 13 9 18 5 4 6 8 7 16 11 19 17 1 3 10 12 2 15 549.8267 rc_201.1.txt
+0 21 13 23 10 9 12 6 5 8 16 19 25 17 18 1 2 24 11 7 3 4 14 20 22 15 749.2486999999999 rc_201.2.txt
+No se encontró camino correcto rc_201.3.txt
+0 20 2 14 17 1 3 21 6 5 4 12 13 25 23 9 11 16 10 18 24 15 7 8 22 19 848.9626999999999 rc_201.4.txt
+No se encontró camino correcto rc_202.1.txt
+0 9 4 3 1 10 5 2 7 6 8 13 11 12 397.82460000000003 rc_202.2.txt
+No se encontró camino correcto rc_202.3.txt
+No se encontró camino correcto rc_202.4.txt
+0 17 10 8 12 3 13 11 9 7 4 14 5 6 2 1 18 15 16 591.0004 rc_203.1.txt
+No se encontró camino correcto rc_203.2.txt
+No se encontró camino correcto rc_203.3.txt
+0 9 1 2 3 10 4 12 7 6 5 11 8 14 13 395.37569999999994 rc_203.4.txt
+No se encontró camino correcto rc_204.1.txt
+No se encontró camino correcto rc_204.2.txt
+0 22 23 3 1 8 5 7 2 12 9 6 4 10 14 17 20 11 19 13 18 21 15 16 558.4801 rc_204.3.txt
+0 12 6 1 3 11 9 13 10 7 8 4 2 5 402.9527 rc_205.1.txt
+No se encontró camino correcto rc_205.2.txt
+No se encontró camino correcto rc_205.3.txt
+0 8 16 9 5 6 4 15 21 7 17 27 22 23 2 13 20 24 3 25 18 14 1 12 10 11 26 19 840.7410999999998 rc_205.4.txt
+0 2 1 3 117.8479 rc_206.1.txt
+No se encontró camino correcto rc_206.2.txt
+0 22 18 6 3 8 4 2 5 20 17 21 12 13 11 10 16 23 24 9 14 1 7 15 19 652.2183000000001 rc_206.3.txt
+No se encontró camino correcto rc_206.4.txt
+No se encontró camino correcto rc_207.1.txt
+No se encontró camino correcto rc_207.2.txt
+No se encontró camino correcto rc_207.3.txt
+0 1 4 2 3 5 119.6388 rc_207.4.txt
+No se encontró camino correcto rc_208.1.txt
+0 19 24 18 17 20 2 3 1 4 25 23 16 12 14 10 6 9 8 11 13 7 5 21 26 27 28 15 22 626.6077 rc_208.2.txt
+0 18 12 11 16 15 20 28 14 9 31 21 34 22 33 29 24 32 10 35 2 30 7 8 5 23 6 3 1 19 27 26 25 13 4 17 980.0719 rc_208.3.txt
